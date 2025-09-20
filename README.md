@@ -123,7 +123,7 @@ Contribuições são bem-vindas! Se você tiver ideias para novas funcionalidade
 Feito por Vinícius Coelho. 
 Redes sociais:
 
-<a href="www.linkedin.com/in/vinicius-dantas-coelho" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/vinicius-dantas-coelho" target="_blank">LinkedIn</a>
 
 <a href="https://www.instagram.com/ovinicius.dantas" target="_blank">Instagram</a>
 ## 📄 Licença
